@@ -8,3 +8,6 @@ https://huggingface.co/spaces/ferrarimarlon/PDFtoGPT
 
 [![Watch the video](https://img.youtube.com/vi/0xqh9Wfi4hw/0.jpg)](https://www.youtube.com/watch?v=0xqh9Wfi4hw)
 
+## Referência
+https://www.kaggle.com/code/pritishmishra/bookgpt-search-engine-for-books
+
